@@ -1,0 +1,18 @@
+2021-05-05 20:29:13.616 [http-nio-8001-exec-8] ERROR c.c.s.exceptionhandle.GlobalExceptionHandler - 执行了讲师异常处理..
+com.cheng.servicebase.exceptionhandle.TeacherException: 服务器正忙，请稍后再试!
+2021-05-05 20:30:40.723 [http-nio-8001-exec-5] ERROR c.c.s.exceptionhandle.GlobalExceptionHandler - 执行了讲师异常处理..
+com.cheng.servicebase.exceptionhandle.TeacherException: 服务器正忙，请稍后再试!
+2021-05-05 20:31:03.811 [http-nio-8001-exec-9] ERROR c.c.s.exceptionhandle.GlobalExceptionHandler - 执行了讲师异常处理..
+com.cheng.servicebase.exceptionhandle.TeacherException: 服务器正忙，请稍后再试!
+2021-05-05 20:31:13.257 [http-nio-8001-exec-10] ERROR c.c.s.exceptionhandle.GlobalExceptionHandler - 执行了讲师异常处理..
+com.cheng.servicebase.exceptionhandle.TeacherException: 服务器正忙，请稍后再试!
+2021-05-05 20:31:43.167 [http-nio-8001-exec-3] ERROR c.c.s.exceptionhandle.GlobalExceptionHandler - 执行了讲师异常处理..
+com.cheng.servicebase.exceptionhandle.TeacherException: 服务器正忙，请稍后再试!
+2021-05-05 20:31:46.524 [http-nio-8001-exec-2] ERROR c.c.s.exceptionhandle.GlobalExceptionHandler - 执行了讲师异常处理..
+com.cheng.servicebase.exceptionhandle.TeacherException: 服务器正忙，请稍后再试!
+2021-05-05 20:31:48.800 [http-nio-8001-exec-4] ERROR c.c.s.exceptionhandle.GlobalExceptionHandler - 执行了讲师异常处理..
+com.cheng.servicebase.exceptionhandle.TeacherException: 服务器正忙，请稍后再试!
+2021-05-05 20:31:50.572 [http-nio-8001-exec-8] ERROR c.c.s.exceptionhandle.GlobalExceptionHandler - 执行了讲师异常处理..
+com.cheng.servicebase.exceptionhandle.TeacherException: 服务器正忙，请稍后再试!
+2021-05-05 20:31:52.591 [http-nio-8001-exec-6] ERROR c.c.s.exceptionhandle.GlobalExceptionHandler - 执行了讲师异常处理..
+com.cheng.servicebase.exceptionhandle.TeacherException: 服务器正忙，请稍后再试!

@@ -1,0 +1,2 @@
+2021-05-05 20:16:46.300 [http-nio-8001-exec-8] ERROR c.c.s.exceptionhandle.GlobalExceptionHandler - 执行了讲师异常处理..
+com.cheng.servicebase.exceptionhandle.TeacherException: 服务器正忙，请稍后再试!
